@@ -37,9 +37,6 @@ dependencies {
     // Constraint overlay
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
 
-    // Material showcase view
-    compile 'com.github.deano2390:MaterialShowcaseView:1.2.0'
-
     // Description overlay view
     compile project(':descriptionoverlay')
 
