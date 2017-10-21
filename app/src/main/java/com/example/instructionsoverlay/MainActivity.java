@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Sequence example
         DescriptionOverlayConfig config = new DescriptionOverlayConfig();
-        config.setDelay(500);  // Half second between each showcase view
+        config.setDelay(500);  // Half second delay between each showcase view
 
         DescriptionOverlaySequence sequence = new DescriptionOverlaySequence(this);
         sequence.setConfig(config);
